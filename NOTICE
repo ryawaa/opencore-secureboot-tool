@@ -1,0 +1,17 @@
+# NOTICE
+
+This script is based on the guide and tools from the Matebook-X-Pro-2018 repository, which is licensed under the Apache License 2.0.
+
+## Original Work
+
+- **Original Guide**: Matebook-X-Pro-2018
+- **Repository URL**: https://github.com/profzei/Matebook-X-Pro-2018
+- **Guide URL**: https://github.com/profzei/Matebook-X-Pro-2018/wiki/Enable-BIOS-Secure-Boot-with-OpenCore
+
+## License
+
+This script is licensed under the Apache License 2.0. You can obtain a copy of the license at [LICENSE](LICENSE).
+
+## Attribution
+
+This project builds upon ideas and techniques from the Matebook-X-Pro-2018 guide, licensed under the Apache License 2.0.
