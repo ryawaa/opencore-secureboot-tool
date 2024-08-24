@@ -28,6 +28,9 @@ The script will attempt to install any missing dependencies using your system's 
 > [!IMPORTANT]
 > In order to sign your EFI files, you must have your `EFI` folder in the same directory as the script. The script will sign and override all `.efi` files in this folder.
 
+> [!NOTE]
+> The Microsoft Certificates and KeyTool is provided in this repository by default. If you do not wish to use these, you can provide your own Microsoft certificates and KeyTool or delete them so they could be downloaded from the internet.
+
 - **Clone the repository and run the script**:
     ```bash
     git clone https://github.com/ryanamay/opencore-secureboot-tool.git
